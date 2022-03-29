@@ -1,3 +1,6 @@
 # first-repo
 Learning how to do this
-Makeing a change.
+
+Line 3 addition and more changes and a bit more
+
+
